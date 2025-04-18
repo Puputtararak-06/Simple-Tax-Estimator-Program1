@@ -1,0 +1,18 @@
+1,Narez pairoar,Single,General,20000.0
+2,nanana,Single,1231233,0.0
+3,nanana,Single,600000,0.0
+4,nanana,Single,Employee,600000.0
+5,nanana,Single,Employee,600000.0
+6,nanana,Single,Employee,600000.0
+7,nanana,Single,Employee,600000.0
+8,nares1111,Single,300000,0.0
+9,nares1111,Single,300000,0.0
+10,nares1111,Single,600000,0.0
+11,nares1111,Single,0,600000.0
+12,ksne,Single,0,600000.0
+13,BM,Single,General,20000.0
+14,bm,Single,Employee,100000.0
+15,,Single,,200000.0
+16,Test User,Single,Test,500000.0
+17,Test User,Single,Test,500000.0
+18,Test User,Single,Test,500000.0
