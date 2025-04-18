@@ -1,0 +1,44 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+package taxsystem.model;
+
+public class Deduction {
+   private int id;
+   private int userId;
+   private String type;
+   private double amount;
+
+   public Deduction(int var1, int var2, String var3, double var4) {
+      this.id = var1;
+      this.userId = var2;
+      this.type = var3;
+      this.amount = var4;
+   }
+
+   public int getId() {
+      return this.id;
+   }
+
+   public int getUserId() {
+      return this.userId;
+   }
+
+   public String getType() {
+      return this.type;
+   }
+
+   public void setType(String var1) {
+      this.type = var1;
+   }
+
+   public double getAmount() {
+      return this.amount;
+   }
+
+   public void setAmount(double var1) {
+      this.amount = var1;
+   }
+
+   public String toString() {
+      return "Deduction [id=" + this.id + ", userId=" + this.userId + ", type=" + this.type + ", amount=" + this.amount + "]";
+   }
+}
